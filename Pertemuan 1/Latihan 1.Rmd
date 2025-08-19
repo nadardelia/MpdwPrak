@@ -5,3 +5,21 @@ x <- 2+2
 x
 ```
 
+```{r}
+library(forecast)
+library(graphics)
+library(TTR)
+library(TSA)
+library(aTSA)
+library(lmtest)
+library(MLmetrics)
+library(car)
+library(dplyr)
+library(MASS)
+library(tsibble)
+library(tseries)
+library(ggplot2)
+library(nortest)
+```
+
+
